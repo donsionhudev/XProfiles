@@ -1,0 +1,26 @@
+# 内容：Bilibili 哔哩哔哩
+# 数量：19条
+USER-AGENT,Bilibili*,Streaming
+USER-AGENT,bili*,Streaming
+DOMAIN,upos-hz-mirrorakam.akamaized.net,Streaming
+DOMAIN-SUFFIX,acg.tv,Streaming
+DOMAIN-SUFFIX,acgvideo.com,Streaming
+DOMAIN-SUFFIX,b23.tv,Streaming
+DOMAIN-SUFFIX,bigfun.cn,Streaming
+DOMAIN-SUFFIX,bigfunapp.cn,Streaming
+DOMAIN-SUFFIX,biliapi.com,Streaming
+DOMAIN-SUFFIX,biliapi.net,Streaming
+DOMAIN-SUFFIX,bilibili.com,Streaming
+DOMAIN-SUFFIX,bilibili.tv,Streaming
+DOMAIN-SUFFIX,biligame.com,Streaming
+DOMAIN-SUFFIX,biligame.net,Streaming
+DOMAIN-SUFFIX,bilivideo.cn,Streaming
+DOMAIN-SUFFIX,bilivideo.com,Streaming
+DOMAIN-SUFFIX,hdslb.com,Streaming
+DOMAIN-SUFFIX,im9.com,Streaming
+DOMAIN-SUFFIX,smtcdns.net,Streaming
+IP-CIDR,119.29.29.29/32,Streaming
+IP-CIDR,203.107.1.34/32,Streaming
+IP-CIDR,203.107.1.65/32,Streaming
+IP-CIDR,203.107.1.66/32,Streaming
+IP-CIDR,150.116.92.250/32,Streaming
