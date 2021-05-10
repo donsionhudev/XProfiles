@@ -1,0 +1,6 @@
+# 内容：微博视频
+# 数量：1条
+#USER-AGENT,Bilibili*,Streaming
+#USER-AGENT,bili*,Streaming
+DOMAIN,f.video.weibocdn.com,Streaming
+#IP-CIDR,119.29.29.29/32,Streaming
