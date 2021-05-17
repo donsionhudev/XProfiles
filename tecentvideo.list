@@ -1,0 +1,10 @@
+# 内容：腾讯体育
+# 数量：5条
+#USER-AGENT,Bilibili*,Streaming
+#DOMAIN,upos-hz-mirrorakam.akamaized.net,Streaming
+DOMAIN-SUFFIX,defaultts.tc.qq.com,Streaming
+DOMAIN-SUFFIX,ltsydzd.qq.com,Streaming
+DOMAIN-SUFFIX,ltsws.qq.com,Streaming
+DOMAIN-SUFFIX,btrace.qq.com,Streaming
+DOMAIN-SUFFIX,ltsbsy.qq.com,Streaming
+#IP-CIDR,150.116.92.250/32,Streaming
